@@ -1,6 +1,6 @@
 # **Olá, eu sou Rafael V. Cavalcante 👋**
 
-Sou um desenvolvedor com ampla experiência em **Java** e **Kotlin**, dedicado a criar soluções robustas e eficientes. Minha trajetória envolve desde desenvolvimento de aplicativos móveis Android até a construção de sistemas backend financeiros e automações complexas.
+Sou um desenvolvedor com experiência sólida em **Java** e **C# (.NET)**, focado na criação de soluções robustas, escaláveis e eficientes. Minha trajetória abrange desde o desenvolvimento de aplicativos móveis Android até sistemas backend financeiros, integrações complexas com APIs e automações em ambientes de nuvem.
 
 ---
 
@@ -8,16 +8,17 @@ Sou um desenvolvedor com ampla experiência em **Java** e **Kotlin**, dedicado a
 
 ### **Desenvolvimento Backend com Java**
 - **Lógica de Negócio e APIs**
-  - Desenvolvimento de APIs RESTful em **Java**, utilizando frameworks como **Spring Boot**.
+  - Criação de APIs REST usando Spring Boot e ASP.NET Core, com foco em performance, segurança e manutenibilidade.
   - Implementação de lógicas financeiras complexas, como cálculo de descontos, regras de dias úteis e integração com gateways de pagamento como **Iugu**.
-  - Experiência em validação, testes unitários (JUnit e Mockito) e alta cobertura de código.
+  - Escrita de testes automatizados com JUnit, Mockito e xUnit para garantir alta cobertura de código.
   
 - **Banco de Dados**
   - Modelagem de entidades e consultas otimizadas com **JPA/Hibernate**.
-  - Manipulação de dados em **MySQL** e **MariaDB**.
+  - Experiência com bancos relacionais como MySQL e MariaDB, e também MongoDB para soluções NoSQL.
   
 - **Integração e Mensageria**
-  - Implementação de mensageria com **AWS SQS**.
+  - Integração com sistemas externos via APIs REST e webhooks.
+  - Utilização de filas com **AWS SQS** para mensageria assíncrona e processamento desacoplado.
   - Uso de integrações com sistemas externos para processamento de transações.
 
 ### **Desenvolvimento Mobile com Kotlin**
@@ -32,7 +33,7 @@ Sou um desenvolvedor com ampla experiência em **Java** e **Kotlin**, dedicado a
   - Scripts de deploy para servidores, gerenciados com **supervisorctl**.
 
 - **Containerização**
-  - Configuração de ambientes com **Docker** para desenvolvimento e testes.
+  - Ambientes de desenvolvimento e testes configurados com Docker.
 
 ### **Outras Tecnologias e Ferramentas**
 - **Postman** e **Altair** para testes de APIs.
@@ -53,19 +54,20 @@ Sou um desenvolvedor com ampla experiência em **Java** e **Kotlin**, dedicado a
 - Gerenciamento completo de permissões dinâmicas e compatibilidade com APIs modernas.
 
 ### **3. Serviço de Renderização de Relatórios**
-- Desenvolvimento de funcionalidades para renderizar relatórios personalizados usando **RenderController** e integração com **Papertrail**.
+- Geração e renderização de relatórios customizados.
+- Integração com Papertrail para rastreamento e depuração de erros.
 
 ### **4. Serviço Escolar**
 - Backend para gerenciamento de boletins escolares, incluindo agregação de disciplinas e notas.
-- Soluções adaptadas para sistemas legados com PHP.
+- Integração com sistemas legados em PHP, facilitando a migração gradual.
 
 ---
 
 ## **🌱 Estou Aprendendo**
 
 - **Ktor Framework** para desenvolvimento backend em Kotlin.
-- **Cloud Services**, como AWS (S3, Lambda).
 - **Boas práticas de segurança** para APIs e aplicativos móveis.
+- **Golang** Desenvolvimento Backend
 
 ---
 
@@ -74,7 +76,7 @@ Sou um desenvolvedor com ampla experiência em **Java** e **Kotlin**, dedicado a
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você tem ideias ou projetos interessantes, entre em contato comigo:
 
 - **Email:** rafa.cavalcant@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/rafael-vieira-97849b1b6/
+- **LinkedIn:** https://www.linkedin.com/in/rafael-cavalcante-97849b1b6/
 
 ---
 
